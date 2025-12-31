@@ -37,9 +37,10 @@ Final structured report is generated and stored
 
 **🛠️ Technology Stack**
 
-**Layer**	           **Tools**
-ML & AI	             XGBoost, Scikit-learn, Google Gemini
-Backend	             Python, Pandas, NumPy
-Retrieval	           Tavily, Google CSE, DuckDuckGo, BeautifulSoup
-Database	           Supabase
-Frontend	           Gradio
+| Layer     | Tools                                         |
+| --------- | --------------------------------------------- |
+| ML & AI   | XGBoost, Scikit-learn, Google Gemini          |
+| Backend   | Python, Pandas, NumPy                         |
+| Retrieval | Tavily, Google CSE, DuckDuckGo, BeautifulSoup |
+| Database  | Supabase                                      |
+| Frontend  | Gradio                                        |
