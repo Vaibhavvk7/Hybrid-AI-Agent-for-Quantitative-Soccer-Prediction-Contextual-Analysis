@@ -4,9 +4,9 @@ A Hybrid AI Agent for Quantitative Football Prediction & Contextual Analysis
 
 A two-stage AI system that combines statistical modeling with real-time contextual reasoning to generate professional-grade football match analyses. Instead of relying solely on historical data or black-box predictions, this system fuses machine learning with live web intelligence to deliver transparent, explainable insights.
 
-**🚀 Key Capabilities
+**🚀 Key Capabilities**
 
-🧠 Dual-Engine Intelligence**
+**🧠 Dual-Engine Intelligence**
 Uses a fast XGBoost model for probabilistic match prediction, enhanced by a context-aware LLM layer for qualitative reasoning.
 
 **🌐 Real-Time RAG Pipeline**
